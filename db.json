@@ -11,7 +11,7 @@
   "crm": [
     { "id": 1, "label": "C123", "customer_name": "Denny" },
     { "id": 2, "label": "C124", "customer_name": "Ynned" },
-    { "id": 3, "label": "C125", "customer_name": "Rustandi" },
+    { "id": 3, "label": "C125", "customer_name": "Rustandi" }
   ],
   "profile": {
     "name": "typicode"
